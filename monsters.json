@@ -6001,10 +6001,16 @@
       "id": 1000
     },
     {
-      "name": "13",
-      "age": 13,
-      "description": "131313",
+      "name": "Danny",
+      "age": 33000.1,
+      "description": "I'm Danny",
       "id": 1001
+    },
+    {
+      "name": "A new guy",
+      "age": 33.3111,
+      "description": "Im new",
+      "id": 1002
     }
   ]
 }
