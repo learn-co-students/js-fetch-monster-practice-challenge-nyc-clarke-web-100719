@@ -6005,6 +6005,78 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Eli",
+      "age": 38,
+      "description": "Cool Dude",
+      "id": 1002
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1003
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1004
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1005
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1006
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1007
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1008
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1009
+    },
+    {
+      "name": "Eli",
+      "age": 0.2,
+      "description": "beginner",
+      "id": 1010
+    },
+    {
+      "name": "Eli",
+      "age": 100,
+      "description": ".then comes after and outside of Fetch",
+      "id": 1011
+    },
+    {
+      "name": "document",
+      "age": 1,
+      "description": "testing instead of querySelector",
+      "id": 1012
+    },
+    {
+      "name": "New guy",
+      "age": "0.6",
+      "description": "NFG",
+      "id": 1013
     }
   ]
 }
